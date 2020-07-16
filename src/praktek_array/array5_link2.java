@@ -35,4 +35,3 @@ public class array5_link2 {
     }
 }
 
-}
